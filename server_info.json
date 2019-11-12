@@ -1,7 +1,7 @@
 {
   "web_dialog":"false",
   "web_dialog_message":"Lol",
-  "link":"https://test.link/",
+  "update_link":"https://test.link/",
   "donate_link":"http://test.com/",
   "alternative_server":"true",
   "alternative_server_link":"http://test.com/",
