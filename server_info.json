@@ -5,7 +5,7 @@
   "update_message":"hello there",
   "donate_link":"http://test.com/",
   "donate_message":"Hello There",
-  "server_status":"true"
+  "server_status":"true",
   "message":"Servers Running",
   "version":"22",
   "java_link":"http://www.test.com/",
