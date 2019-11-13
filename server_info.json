@@ -1,12 +1,12 @@
 {
-  "web_dialog":"false",
+  "web_dialog":"true",
   "web_dialog_url":"https://www.google.com/",
   "update_link":"https://test.link/",
   "update_message":"hello there",
   "donate_link":"http://test.com/",
   "donate_message":"Hello There",
-  "server_status":"true",
-  "message":"Servers Running",
+  "server_status":"false",
+  "message":"Servers are closed Now",
   "version":"22",
   "java_link":"http://www.test.com/"
 }
