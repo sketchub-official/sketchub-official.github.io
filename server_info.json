@@ -5,8 +5,8 @@
   "update_message":"hello there",
   "donate_link":"http://test.com/",
   "donate_message":"Hello There",
-  "server_status":"false",
-  "message":"Servers are closed Now",
-  "version":"22",
+  "server_status":"true",
+  "message":"Connected",
+  "version":"21",
   "java_link":"http://www.test.com/"
 }
