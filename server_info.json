@@ -1,6 +1,6 @@
 {
   "web_dialog":"false",
-  "web_dialog_message":"Lol",
+  "web_dialog_url":"https://www.google.com/",
   "update_link":"https://test.link/",
   "update_message":"hello there",
   "donate_link":"http://test.com/",
