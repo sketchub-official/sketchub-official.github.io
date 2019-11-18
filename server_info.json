@@ -1,5 +1,5 @@
 {
-  "web_dialog":"true",
+  "web_dialog":"false",
   "web_dialog_url":"https://www.google.com/",
   "update_link":"https://test.link/",
   "update_message":"hello there",
