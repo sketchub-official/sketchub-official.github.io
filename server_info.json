@@ -1,6 +1,6 @@
 {
-  "web_dialog":"false",
-  "web_dialog_url":"https://www.google.com/",
+  "web_dialog":"true",
+  "web_dialog_url":"https://www.sketchub.cf/notification_12_feb_2020.html",
   "update_link":"https://firebasestorage.googleapis.com/v0/b/sketchub-new.appspot.com/o/apk%2FSketchub_v2.3.apk?alt=media&token=516bb03a-f5eb-4f0b-b3a0-edc3dc70762d",
   "update_message":"- Major Bugs Fixed",
   "donate_link":"https://paypal.me/amitoj02",
