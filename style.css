@@ -31,6 +31,7 @@ CSS INDEX
 21. Pagination
 22. Comment-Respond
 23. Form-Stype
+24. Useful-Links
 -----------------------------------------------------------------------------------*/
 
 /*-----------------
@@ -1329,4 +1330,16 @@ input:-webkit-autofill:focus {
 
 .form-double .box.last {
     float: right;
+}
+/*-- 24. Useful-Links --*/
+.useful-link-box{
+ 
+  padding: 15px;
+  background-color: white;
+  box-shadow: 5px 5px 5px #1b58ff;
+}
+.useful-link-box h4{
+ 
+  text-align: center;
+  text-decoration: underline;
 }
