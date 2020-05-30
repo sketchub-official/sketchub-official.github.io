@@ -1,1 +1,20 @@
-[{"name":"BEGINNER","amount":"FREE","benefits":"• 10 Slots for public/private Projects\n\n• 5 Slots for password protected projects","link":"https://paypal.me/amitoj02"},{"name":"PREMIUM PLAN","amount":"$1.4","benefits":"• 40 Slots for public/private Projects\n• 20 Slots for password protected projects\n• Ad-free experience\n• Premium Badge with verified tick","link":"https://paypal.me/amitoj02"},{"name":"VIP PLAN","amount":"$5","benefits":"• Unlimited Plots for publishing all types of projects (Public/Private/Password)\n• Ad-free experience\n• VIP badge with verified tick","link":"https://paypal.me/amitoj02"}]
+[
+  {
+    "name": "BEGINNER",
+    "amount": "FREE",
+    "benefits": "• 10 Slots for public/private Projects\n\n• 5 Slots for password protected projects",
+    "link": "https://paypal.me/amitoj02"
+  },
+  {
+    "name": "PREMIUM PLAN",
+    "amount": "$1.4",
+    "benefits": "• 40 Slots for public/private Projects\n• 20 Slots for password protected projects\n• Ad-free experience\n• Premium Badge with verified tick",
+    "link": "https://paypal.me/amitoj02"
+  },
+  {
+    "name": "VIP PLAN",
+    "amount": "$5",
+    "benefits": "• Unlimited Plots for publishing all types of projects (Public/Private/Password)\n• Ad-free experience\n• VIP badge with verified tick",
+    "link": "https://paypal.me/amitoj02"
+  }
+]
