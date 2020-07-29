@@ -1,11 +1,11 @@
 {
-  "version": "25",
+  "version": "29",
   "web_dialog": "false",
   "web_dialog_url": "https://www.sketchub.in/notification_12_feb_2020.html",
-  "update_link": "https://firebasestorage.googleapis.com/v0/b/sketchub-new.appspot.com/o/apk%2FSketchub%20v2.5.apk?alt=media&token=6b6a462c-57b4-4290-ae59-cb9586da9ced",
-  "update_message": "- Fixed lot of bugs and errors.\n- Now you can use offline features when servers closed.\n- APK Uploading Support, now 3rd party links are allowed only.\n- Added \"SW Project Manager\": Import, Export or Clone Sketchware Projects.\n- Now you can format description with HTML, (CSS and Javascript for verified users only).\n- New Verification System: Now each and every new/updated project will be verified manually be our team to ensure your security.\n- Added \"You might also like\" column.",
-  "donate_link": "https://paypal.me/amitoj02",
+  "update_link": "https://firebasestorage.googleapis.com/v0/b/sketchub-new.appspot.com/o/apk%2FSketchub%20v2.9.apk?alt=media&token=cdfd0162-d69a-45ea-b1db-6abda75eac11",
+  "update_message": "- Finally, after typing 40 files (154k chars) of PHP script, Sketchub is migrated from Firebase to MySQL. Now there will no server outage due to qouta exhaustions. Server security is also improved after it.\n- Now every user will have an unique username to avoid misunderstanding\n- Added 'Blog Post' column\n- Now you can add video demo for your app\n- Download Size is now visible\n- Downloaded file will be saved in the device\n- Sharing Links will now shorten by Firebase Dynamics\n- Password Protected Project is removed, instead a more better feature i.e. \"Team Projects\" will be added in upcoming updates.\n- Country flag is now switchable from Profile settings\n- More UI Improvements and bugs fixes\n- As promised, SH Recovery's files are also supported, along with it, Android Studio's projects & APKs are also welcomed.\n- Contact email changed to contact@sketchub.in\n- Web version of sketchub is coming soon\nYOU WILL NEED TO UNINSTALL THIS APK FOR INSTALLING NEXT ONE. PLEASE GET THE DOWNLOADED APK FROM SKETCHUB FOLDER OR DOWNLOAD ONE FROM WWW.SKETCHUB.IN",
+  "donate_link": "https://www.paypal.me/rohitkumargd",
   "server_status": "false",
-  "message": "We are migrating to MySQL, we will back ASAP!",
+  "message": "New Update available",
   "java_link": "https://raw.githubusercontent.com/sketchub-official/sketchub-official.github.io/master/java_codes/codes.json"
 }
